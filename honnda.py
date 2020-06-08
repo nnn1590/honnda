@@ -1,12 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # coding:utf-8
 
 import time
-
 from pyfiglet import Figlet
 if __name__ == '__main__':
     f = Figlet(font='big')
     msg = f.renderText('YOU LOSE')
+
 print("2020年もっと美味しくなったペプシジャパンコーラ飲んでみたくないですか？")
 time.sleep(1)
 print("僕にじゃんけんで買ったら")
@@ -37,4 +37,3 @@ time.sleep(1)
 print("ほな")
 time.sleep(1)
 print("明日も挑戦")
-
