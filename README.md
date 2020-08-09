@@ -3,6 +3,7 @@
 I recreated Janken(Japanese version of rock-paper-scissors) Honda in python.
 The conditional branching was tedious and you lose 100% of the time.
 Maybe we'll implement it soon.
+(NOTE: "I" in this sentence is not @nnn1590)
 
 本田とじゃんけんをpythonで再現してみました。
 条件分岐が面倒だったので100%負けます。()
